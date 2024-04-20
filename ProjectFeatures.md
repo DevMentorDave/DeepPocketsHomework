@@ -3,6 +3,8 @@
 Taken from the [DeepPockets: MVP Feature Selection!](https://www.youtube.com/watch?v=vv1J8kQkkac) video.
 Discussed between 50:15 - 1:20:40
 
+[Schema below](#dbdiagram-header)
+
 ## Budgets
 
     • Line Items
@@ -63,3 +65,9 @@ Discussed between 50:15 - 1:20:40
     • None external
     • Form Errors
     • Visual alerts for overdue
+
+### <a id="dbdiagram-header"></a> DB Diagram
+
+[Link to DB Diagram](https://dbdiagram.io/d/Deep_Pockets_MVP_Finalized_Features-66237fbe03593b6b617dced4)
+
+![alt text](./docs/Deep_Pockets_MVP_Finalized_Features.png)
