@@ -9,7 +9,7 @@ You can find the diagram [here](https://dbdiagram.io/d/DP-660b4a1a37b7e33fd740ce
 Each budget has at least one dedicated account to store money. 
 There are different types of budget (regular, goal, etc.)
 
-Account keeps monet and can belong to only budget.
+Account keeps money and can belong to only budget.
 There are different types of accounts (debit, credit)
 
 Transaction can be spending, earning, transfer between accounts.
