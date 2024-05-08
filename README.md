@@ -1,4 +1,3 @@
-# * schema was not updated to fit explanation yet. Work in progress *
 # Here is my database schema.
 
 You can find the diagram [here](https://dbdiagram.io/d/DP-660b4a1a37b7e33fd740cea8)
